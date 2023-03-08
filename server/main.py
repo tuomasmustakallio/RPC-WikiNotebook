@@ -15,8 +15,6 @@ def main():
                             requestHandler=RequestHandler) as server:
         server.register_introspection_functions()
         
-        @server.register_function
-        def read_notes(topic: str):
             
         
 
