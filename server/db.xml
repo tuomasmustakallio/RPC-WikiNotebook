@@ -1,12 +1,1 @@
-<data>
-    <topic name="Animal Things">
-        <note name="Dogs are better than cats 03">
-            <text>
-            Dogs respond when you call their name (unlike cats, who just ignore you)
-            </text>
-            <timestamp>
-            03/16/21 - 14:03:04
-            </timestamp>
-        </note>
-    </topic>
-</data>
+<data><topic name="Test1"><note name="Name1"><text>something1</text><date>03/12/23, 23:21:46</date></note></topic><topic name="Test2"><note name="Name2"><text>something2</text><date>03/12/23, 23:22:04</date></note></topic><topic name="Island"><note name="Island according to Wikipedia"><text>Land, also known as dry land, ground, or earth, is the solid terrestrial surface of Earth not submerged by the ocean or another body of water. It makes up 29.2% of Earth's surface and includes all continents and islands.</text><date>03/12/23, 23:39:21</date></note></topic><topic name="Something2"><note name="Soem"><text>asdasd</text><date>03/12/23, 23:42:47</date></note></topic><topic name="Germany"><note name="Germany according to Wikipedia"><text>Germany, officially the Federal Republic of Germany, is a country in Central Europe. It is the second-most populous country in Europe after Russia, and the most populous member state of the European Union.</text><date>03/12/23, 23:43:30</date></note></topic></data>
